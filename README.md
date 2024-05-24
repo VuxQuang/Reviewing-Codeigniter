@@ -68,7 +68,11 @@ Thực hành áp dụng Codeigniter:
 4. **Trong lớp view**: Tạo 1 thư mục login sau đó tạo file index.php dùng để thiết kế giao diện
 5. **Kết nối database với cơ sở dữ liệu Aiven**: Tạo 1 file để kết nối với cơ sở dữ liệu của aiven với tên database.php ![image](database.png)
    - Bạn có thể tham khảo kết nối aiven tại [đây](https://aiven.io/platform) 
-7.  
+6 **Mở sever kết nối**: Vào terminal trên visual studio code và gõ lệnh php -S localhost:7000
+
+## Kết quả đạt được
+Sau khi thực hiện các bước với Codeigniter thì đã đạt được thành quả sau:
+
 
 ## Liên hệ
 
