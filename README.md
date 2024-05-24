@@ -61,7 +61,7 @@ Chính vì những lí do trên mà codeigniter vẫn được là sự lựa ch
 4. **Giải nén CodeIgniter vào thư mục codeigniter trong htdocs**: 
 
 5. **Mở visual studio code**: Mở terminal trong visual studio code và gõ lệnh php -S localhost:7000
-   - VD: Tại đây sẽ mở trang chủ của codeIgniter với giao diện được thay đổi là Web bán hàng như sau: ![Image]("C:\Users\vutha\Desktop\2024-05-24_171857.png")
+   - VD: Tại đây sẽ chạy trang với giao diện được thay đổi là Web bán hàng như sau: ![Image](2024-05-24_171857.png)
 
 ## Liên hệ
 
