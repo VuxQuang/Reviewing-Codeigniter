@@ -9,6 +9,7 @@ CodeIgniter là một framework PHP phổ biến và nhẹ nhàng, được thi�
 
 1. **Hiệu suất cao**:
    - CodeIgniter rất nhanh và nhẹ, giúp các ứng dụng web chạy mượt mà ngay cả khi có lượng truy cập lớn.
+     (Với gói tải chỉ có 687 MB)
 
 2. **Dễ dàng cài đặt và sử dụng**:
    - Cấu trúc đơn giản và dễ hiểu, giúp cho việc cài đặt và sử dụng trở nên dễ dàng ngay cả với người mới bắt đầu.
