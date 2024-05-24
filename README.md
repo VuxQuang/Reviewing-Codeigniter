@@ -5,7 +5,7 @@
 
 CodeIgniter là một framework PHP phổ biến và nhẹ nhàng, được thiết kế để giúp các nhà phát triển xây dựng các ứng dụng web nhanh chóng. Framework này nổi tiếng với hiệu suất cao, cấu trúc linh hoạt và dễ sử dụng.
 
-## Ưu điểm
+## Lí do tại sao chọn framework
 
 1. **Hiệu suất cao**:
    - CodeIgniter rất nhanh và nhẹ, giúp các ứng dụng web chạy mượt mà ngay cả khi có lượng truy cập lớn.
@@ -13,6 +13,7 @@ CodeIgniter là một framework PHP phổ biến và nhẹ nhàng, được thi�
 
 2. **Dễ dàng cài đặt và sử dụng**:
    - Cấu trúc đơn giản và dễ hiểu, giúp cho việc cài đặt và sử dụng trở nên dễ dàng ngay cả với người mới bắt đầu.
+     [Download here](https://codeigniter.com/user_guide/installation/index.html)
 
 3. **Tài liệu phong phú**:
    - CodeIgniter có tài liệu chi tiết và phong phú, hỗ trợ tốt cho các nhà phát triển trong quá trình sử dụng.
