@@ -16,7 +16,7 @@ CodeIgniter là một framework PHP phổ biến và nhẹ nhàng, được thi�
      [Download here](https://codeigniter.com/user_guide/installation/index.html)
 
 3. **Tài liệu phong phú**:
-   - CodeIgniter có tài liệu chi tiết và phong phú, hỗ trợ tốt cho các nhà phát triển trong quá trình sử dụng.
+   - CodeIgniter có tài liệu chi tiết và phong phú, hỗ trợ tốt cho các nhà phát triển trong quá trình sử dụng.[Reading here](https://codeigniter.com/user_guide/intro/index.html)
 
 4. **Cộng đồng hỗ trợ mạnh mẽ**:
    - Cộng đồng lớn và nhiệt tình, dễ dàng tìm kiếm sự hỗ trợ và chia sẻ kiến thức.
@@ -36,17 +36,14 @@ CodeIgniter là một framework PHP phổ biến và nhẹ nhàng, được thi�
    - Không có nhiều tính năng hiện đại và phức tạp như một số framework mới hơn như Laravel hay Symfony.
 
 3. **Quản lý gói (package management)**:
-   - Không hỗ trợ tích hợp quản lý gói bằng Composer mặc định, cần phải cấu hình thêm.
+   - So với các framework khác thì codeigniter không hỗ trợ composer => qua đó chúng ta phải tự cài đặt thủ công
 
 4. **Bảo mật**:
    - Mặc dù có các tính năng bảo mật cơ bản, nhưng người dùng cần phải cẩn thận và thêm các lớp bảo mật bổ sung khi cần thiết.
 
-5. **Hỗ trợ ORM hạn chế**:
-   - CodeIgniter cung cấp một ORM (Object-Relational Mapping) cơ bản, nhưng không mạnh mẽ và linh hoạt như các framework khác.
-
 ## Kết luận
 
-CodeIgniter là một lựa chọn tuyệt vời cho những dự án cần sự đơn giản, nhanh chóng và hiệu quả. Với hiệu suất cao và cấu trúc rõ ràng, nó giúp cho việc phát triển ứng dụng web trở nên dễ dàng và nhanh chóng hơn. Tuy nhiên, đối với những dự án yêu cầu tính linh hoạt cao và nhiều tính năng hiện đại, các nhà phát triển có thể cần cân nhắc sử dụng các framework khác.
+Chính vì những lí do trên mà codeigniter vẫn được là sự lựa chọn số một bởi do dễ dàng sử dụng, thân thiện với người dùng.
 
 ---
 
@@ -56,16 +53,16 @@ CodeIgniter là một lựa chọn tuyệt vời cho những dự án cần sự
 
 1. **Tải CodeIgniter**: Tải phiên bản mới nhất từ [trang chủ CodeIgniter](https://codeigniter.com/).
 
-2. **Giải nén và di chuyển**: Giải nén tệp tải về và đặt vào thư mục gốc của máy chủ web của bạn.
+2. **Tải Xampp**: Lên trang chủ xampp để tải [Download here](https://www.apachefriends.org/download.html).
+   -Sau khi tải xong lưu thư mục trên ổ đĩa
 
-3. **Cấu hình cơ sở dữ liệu**: 
-   - Mở file `application/config/database.php` và thiết lập thông tin kết nối cơ sở dữ liệu của bạn.
+3. **Mở ứng dụng Xampp và nhấn vào exploerer**:Mở thư mục htdocs tạo thư mục codeigniter
 
-4. **Thiết lập cơ bản**: 
-   - Mở file `application/config/config.php` và thiết lập base URL của ứng dụng.
+4. **Giải nén CodeIgniter vào thư mục codeigniter trong htdocs**: 
 
-5. **Chạy ứng dụng**: Mở trình duyệt web và truy cập vào URL ứng dụng của bạn.
+5. **Mở visual studio code**: Mở terminal trong visual studio code và gõ lệnh php -S localhost:7000
+   - VD: Tại đây sẽ mở trang chủ của codeIgniter với giao diện được thay đổi là Web bán hàng như sau: ![Image]("C:\Users\vutha\Desktop\2024-05-24_171857.png")
 
 ## Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, vui lòng liên hệ qua email: your-email@example.com.
+Đây là bài viết sau khi tìm hiểu. Nếu có ý kiến xin vui lòng gửi về email hotloan124@gmail.com
