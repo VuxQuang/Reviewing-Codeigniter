@@ -90,4 +90,5 @@ Sau đó ấn vào nút đăng nhập => sẽ hiển thị ra hình ảnh như s
 
 ## Liên hệ
 
-Đây là bài viết sau khi tìm hiểu. Nếu có ý kiến xin vui lòng gửi về email hotloan124@gmail.com
+Đây là bài viết sau khi tìm hiểu. Nếu có ý kiến xin vui lòng gửi về email hotloan124@gmail.com.
+## Cảm ơn mọi người đã đọc bài viết
