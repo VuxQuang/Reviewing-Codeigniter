@@ -72,7 +72,20 @@ Thực hành áp dụng Codeigniter:
 
 ## Kết quả đạt được
 Sau khi thực hiện các bước với Codeigniter thì đã đạt được thành quả sau:
+![img](LoginPage.png)
 
+Sử dụng tài khoản có trên cơ sở dữ liệu
+- VD username: user1 ; password: 1
+
+Sau đó ấn vào nút đăng nhập => sẽ hiển thị ra hình ảnh như sau:
+![img](Logout.jpg)
+
+## Kết luận
+
+- Đã hiểu được cách vận hành, cài đặt codeigniter
+- Áp dụng được mô hình MVC vào bài toán thực tế
+- Sử dụng cloud để kết nối cơ sở dữ liệu
+- Tổ chức code một cách chặt chẽ, logic, có tính khoa học
 
 ## Liên hệ
 
