@@ -67,8 +67,9 @@ Thực hành áp dụng Codeigniter:
 3. **Trong lớp model**: Tạo 1 file LoginView.php dùng để thực hiện việc xác thực thông tin đăng nhập của người dùng, như kiểm tra tên người dùng và mật khẩu có hợp lệ hay không bằng cách so sánh với dữ liệu lưu trữ trong cơ sở dữ liệu.
 4. **Trong lớp view**: Tạo 1 thư mục login sau đó tạo file index.php dùng để thiết kế giao diện
 5. **Kết nối database với cơ sở dữ liệu Aiven**: Tạo 1 file để kết nối với cơ sở dữ liệu của aiven với tên database.php ![image](database.png)
-   - Bạn có thể tham khảo kết nối aiven tại [đây](https://aiven.io/platform) 
-6 **Mở sever kết nối**: Vào terminal trên visual studio code và gõ lệnh php -S localhost:7000
+   - Bạn có thể tham khảo kết nối aiven tại [đây](https://aiven.io/platform).
+
+6. **Mở sever kết nối**: Vào terminal trên visual studio code và gõ lệnh php -S localhost:7000
 
 ## Kết quả đạt được
 Sau khi thực hiện các bước với Codeigniter thì đã đạt được thành quả sau:
