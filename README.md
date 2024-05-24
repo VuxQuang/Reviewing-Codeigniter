@@ -39,11 +39,6 @@ CodeIgniter là một framework PHP phổ biến và nhẹ nhàng, được thi�
 
 4. **Bảo mật**:
    - Mặc dù có các tính năng bảo mật cơ bản, nhưng người dùng cần phải cẩn thận và thêm các lớp bảo mật bổ sung khi cần thiết.
-
-## Kết luận
-
-Chính vì những lí do trên mà codeigniter vẫn được là sự lựa chọn số một bởi do dễ dàng sử dụng, thân thiện với người dùng.
-
 ---
 
 ## Cài đặt
@@ -67,8 +62,13 @@ Chính vì những lí do trên mà codeigniter vẫn được là sự lựa ch
 Thực hành áp dụng Codeigniter:
 
 1. **Xác định mô hình**: Ở bài này áp dụng mô hình 3 lớp MVC
-   - ![Image](
-3. 
+   - ![Image](MVC.png).
+2. **Trong lớp controller**: Tạo 1 file LoginController.php dùng để xử lý việc nhận thông tin đăng nhập từ người dùng, xác thực thông tin này với cơ sở dữ liệu và tạo phiên làm việc (session) cho người dùng nếu thông tin hợp lệ.
+3. **Trong lớp model**: Tạo 1 file LoginView.php dùng để thực hiện việc xác thực thông tin đăng nhập của người dùng, như kiểm tra tên người dùng và mật khẩu có hợp lệ hay không bằng cách so sánh với dữ liệu lưu trữ trong cơ sở dữ liệu.
+4. **Trong lớp view**: Tạo 1 thư mục login sau đó tạo file index.php dùng để thiết kế giao diện
+5. **Kết nối database với cơ sở dữ liệu Aiven**: Tạo 1 file để kết nối với cơ sở dữ liệu của aiven với tên database.php ![image]
+   - Bạn có thể tham khảo kết nối aiven tại [đây](https://aiven.io/platform) 
+7.  
 
 ## Liên hệ
 
